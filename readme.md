@@ -45,4 +45,4 @@ Your html should look like this when you open it in your browser's devtools
 </body>
 ```
 
-If you're interested in how i scraped and prepared this data, read my article here
+If you're interested in how i scraped and prepared this data, read my article [here](https://jeffreyon.hashnode.dev/heres-a-big-fat-list-of-nigerian-states-and-their-lgas-in-json-for-your-projects)
